@@ -13,7 +13,6 @@ If you need me, you can find me on [Twitter](https://twitter.com/thomaswill1yt),
 
 Some languages I know
 - Javascript
-- HTML
 - C/C#/C++
 - Java
 - Visual Basic
